@@ -1,0 +1,201 @@
+{
+ "index-mobile-light": {
+  "overflow": {
+   "sw": 390,
+   "w": 390,
+   "bad": []
+  },
+  "small_targets": []
+ },
+ "services-mobile-light": {
+  "overflow": {
+   "sw": 390,
+   "w": 390,
+   "bad": []
+  },
+  "small_targets": []
+ },
+ "about-mobile-light": {
+  "overflow": {
+   "sw": 390,
+   "w": 390,
+   "bad": []
+  },
+  "small_targets": []
+ },
+ "faq-mobile-light": {
+  "overflow": {
+   "sw": 390,
+   "w": 390,
+   "bad": []
+  },
+  "small_targets": []
+ },
+ "contact-mobile-light": {
+  "overflow": {
+   "sw": 390,
+   "w": 390,
+   "bad": []
+  },
+  "small_targets": []
+ },
+ "menu-light": {
+  "open": {
+   "exp": "true",
+   "vis": "visible",
+   "focus": "Home",
+   "inert": false
+  },
+  "after_esc": {
+   "exp": "false",
+   "vis": "hidden",
+   "focus": "menu-btn",
+   "inert": true
+  },
+  "nav_to": "file:///workspace/tax-site/faq.html"
+ },
+ "form": {
+  "ssn_msg": "Remove the Social Security or tax ID number. Share it only in a secure meeting.",
+  "success": "Message ready. This is a demo form, so nothing was sent. Connect a form service before launch."
+ },
+ "errors-mobile-light": [],
+ "index-mobile-dark": {
+  "overflow": {
+   "sw": 390,
+   "w": 390,
+   "bad": []
+  },
+  "small_targets": []
+ },
+ "services-mobile-dark": {
+  "overflow": {
+   "sw": 390,
+   "w": 390,
+   "bad": []
+  },
+  "small_targets": []
+ },
+ "about-mobile-dark": {
+  "overflow": {
+   "sw": 390,
+   "w": 390,
+   "bad": []
+  },
+  "small_targets": []
+ },
+ "faq-mobile-dark": {
+  "overflow": {
+   "sw": 390,
+   "w": 390,
+   "bad": []
+  },
+  "small_targets": []
+ },
+ "contact-mobile-dark": {
+  "overflow": {
+   "sw": 390,
+   "w": 390,
+   "bad": []
+  },
+  "small_targets": []
+ },
+ "menu-dark": {
+  "open": {
+   "exp": "true",
+   "vis": "visible",
+   "focus": "Home",
+   "inert": false
+  },
+  "after_esc": {
+   "exp": "false",
+   "vis": "hidden",
+   "focus": "menu-btn",
+   "inert": true
+  },
+  "nav_to": "file:///workspace/tax-site/faq.html"
+ },
+ "errors-mobile-dark": [],
+ "index-desktop-light": {
+  "overflow": {
+   "sw": 1440,
+   "w": 1440,
+   "bad": []
+  },
+  "small_targets": []
+ },
+ "services-desktop-light": {
+  "overflow": {
+   "sw": 1440,
+   "w": 1440,
+   "bad": []
+  },
+  "small_targets": []
+ },
+ "about-desktop-light": {
+  "overflow": {
+   "sw": 1440,
+   "w": 1440,
+   "bad": []
+  },
+  "small_targets": []
+ },
+ "faq-desktop-light": {
+  "overflow": {
+   "sw": 1440,
+   "w": 1440,
+   "bad": []
+  },
+  "small_targets": []
+ },
+ "contact-desktop-light": {
+  "overflow": {
+   "sw": 1440,
+   "w": 1440,
+   "bad": []
+  },
+  "small_targets": []
+ },
+ "errors-desktop-light": [],
+ "index-desktop-dark": {
+  "overflow": {
+   "sw": 1440,
+   "w": 1440,
+   "bad": []
+  },
+  "small_targets": []
+ },
+ "services-desktop-dark": {
+  "overflow": {
+   "sw": 1440,
+   "w": 1440,
+   "bad": []
+  },
+  "small_targets": []
+ },
+ "about-desktop-dark": {
+  "overflow": {
+   "sw": 1440,
+   "w": 1440,
+   "bad": []
+  },
+  "small_targets": []
+ },
+ "faq-desktop-dark": {
+  "overflow": {
+   "sw": 1440,
+   "w": 1440,
+   "bad": []
+  },
+  "small_targets": []
+ },
+ "contact-desktop-dark": {
+  "overflow": {
+   "sw": 1440,
+   "w": 1440,
+   "bad": []
+  },
+  "small_targets": []
+ },
+ "errors-desktop-dark": [],
+ "reduced_motion_btn_transition": "1e-05s"
+}
